@@ -1,2 +1,2 @@
-# repositorio-curso-git-github
+# Mi primer README
 Repositorio para el curso de Git y GitHub de FreeCodeCamp
